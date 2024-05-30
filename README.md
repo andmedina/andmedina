@@ -1,7 +1,8 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/012/720/075/non_2x/cloud-computing-social-media-banner-hi-tech-cloud-connection-technology-linkedin-cover-internet-business-technology-header-global-data-information-exchange-background-illustration-vector.jpg)](andresmedina.io)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/012/720/075/non_2x/cloud-computing-social-media-banner-hi-tech-cloud-connection-technology-linkedin-cover-internet-business-technology-header-global-data-information-exchange-background-illustration-vector.jpg)](https://andresmedina.io)
+
 <h1 align="center">Hi 👋, I'm Andres Medina</h1>
 <h3 align="center">I'm a student data scientist/data engineer</h3>
-<img align="right" width="400" src= “https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 🔭 I’m currently working on [aptafind](https://github.com/andmedina/aptafind)
 
