@@ -4,7 +4,7 @@
 <h3 align="center">I'm a student data scientist/data engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🔭 I’m currently working on [aptafind](https://github.com/andmedina/data-engineering-projects)
+- 🔭 I’m currently working on [Data Engineering Projects](https://github.com/andmedina/data-engineering-projects)
 
 - 🌱 I’m currently learning **AWS, Oracle, Azure, and GCP**
 
