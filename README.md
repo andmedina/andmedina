@@ -1,7 +1,7 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/012/720/075/non_2x/cloud-computing-social-media-banner-hi-tech-cloud-connection-technology-linkedin-cover-internet-business-technology-header-global-data-information-exchange-background-illustration-vector.jpg)](https://andresmedina.io)
 
 <h1 align="center">Andres Medina</h1>
-<h3 align="center">Data Engineering | ETL Pipelines | Biological Data</h3>
+<h3 align="center">Data Engineering | ETL Pipelines | Bioinformatics | Data Analyst </h3>
 
 <p align="center">
 Data-focused professional with experience in ETL pipelines, data modeling, and data quality validation. Background in biological research with hands-on experience transforming complex scientific datasets into structured formats for analysis.
