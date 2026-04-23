@@ -10,7 +10,7 @@ Data-focused professional with experience in ETL pipelines, data modeling, and d
 ---
 
 ## 🚀 Featured Projects
-- [Gene Metadata ETL Pipeline (Biological Data Integration)](https://github.com/andmedina/data-engineering-projects)
+- [Gene Metadata ETL Pipeline (Biological Data Integration)](https://github.com/andmedina/data-engineering-projects/tree/main/projects/gene_metadata_pipeline)
 - [Data Engineering Projects Repository (ETL Pipelines)](https://github.com/andmedina/data-engineering-projects)
 
 ---
