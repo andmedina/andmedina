@@ -11,7 +11,7 @@ Data-focused professional with experience in ETL pipelines, data modeling, and d
 
 ## 🚀 Featured Projects
 - [Gene Metadata ETL Pipeline (Biological Data Integration)](https://github.com/andmedina/data-engineering-projects)
-- [AptaFind – ETL Pipeline & Data Infrastructure](https://github.com/andmedina/data-engineering-projects)
+- [Data Engineering Projects Repository (ETL Pipelines)](https://github.com/andmedina/data-engineering-projects)
 
 ---
 
