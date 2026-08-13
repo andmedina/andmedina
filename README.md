@@ -1,34 +1,53 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/012/720/075/non_2x/cloud-computing-social-media-banner-hi-tech-cloud-connection-technology-linkedin-cover-internet-business-technology-header-global-data-information-exchange-background-illustration-vector.jpg)](https://andresmedina.io)
+# Andres Medina
 
-<h1 align="center">Andres Medina</h1>
-<h3 align="center">Data Engineering | ETL Pipelines | Bioinformatics | Data Analyst </h3>
+## Data Engineer | Data Scientist
 
-<p align="center">
-Data-focused professional with experience in ETL pipelines, data modeling, and data quality validation. Background in biological research with hands-on experience transforming complex scientific datasets into structured formats for analysis.
-</p>
+I build end-to-end data systems that transform operational data into reliable
+datasets, analytical insights, and machine-learning solutions. My work focuses
+on Python, SQL, PostgreSQL, ETL development, data modeling, manufacturing
+analytics, and applied machine learning.
 
----
+My portfolio includes projects spanning manufacturing operations, ERP and BOM
+workflows, healthcare data, and bioinformatics.
 
-## 🚀 Featured Projects
-- [Gene Metadata ETL Pipeline (Biological Data Integration)](https://github.com/andmedina/data-engineering-projects/tree/main/projects/gene_metadata_pipeline)
-- [Data Engineering Projects Repository (ETL Pipelines)](https://github.com/andmedina/data-engineering-projects)
-
----
-
-## 🛠️ Skills
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</p>
+[**Explore my complete data engineering and data science portfolio →**](https://github.com/andmedina/data-engineering-projects)
 
 ---
 
-## 🔗 Connect
-<p>
-<a href="https://linkedin.com/in/medina-andres" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-</a>
-</p>
+## Featured Projects
+
+| Project | What it demonstrates |
+|---|---|
+| [Manufacturing Intelligence Platform](https://github.com/andmedina/data-engineering-projects/tree/main/projects/manufacturing/manufacturing-intelligence-platform) | PostgreSQL data modeling, modular Python ETL, manufacturing KPIs, Tableau reporting, root-cause analysis, and predictive-maintenance modeling |
+| [BOM Material Planning](https://github.com/andmedina/data-engineering-projects/tree/main/projects/manufacturing/bom-material-planning) | ERP-style production demand, BOM explosion, time-phased inventory netting, supplier constraints, and actionable purchasing recommendations |
+| [CAD-to-ERP Pipeline](https://github.com/andmedina/data-engineering-projects/tree/main/projects/manufacturing/cad_erp_pipeline) | Engineering metadata extraction, structured BOM processing, data validation, and CAD-to-ERP integration |
+| [Healthcare Claims ETL](https://github.com/andmedina/data-engineering-projects/tree/main/projects/healthcare/healthcare_claims_etl) | Healthcare data modeling, Python and PostgreSQL ETL, pipeline orchestration, and analytics-ready transformations |
+| [Gene Metadata Pipeline](https://github.com/andmedina/data-engineering-projects/tree/main/projects/gene_metadata_pipeline) | REST API ingestion, scientific-data transformation, validation, and relational storage |
+
+---
+
+## Technical Focus
+
+- **Data engineering:** ETL pipelines, data validation, relational modeling,
+  data integration, and reproducible analytical datasets
+- **Languages and databases:** Python, SQL, PostgreSQL, and SQLite
+- **Analytics and machine learning:** Pandas, NumPy, scikit-learn, Tableau,
+  operational KPIs, and predictive modeling
+- **Development workflow:** SQLAlchemy, pytest, Git, and Apache Airflow
+- **Domain experience:** Manufacturing, ERP/BOM workflows, healthcare, and
+  bioinformatics
+
+---
+
+## Current Interests
+
+I am particularly interested in manufacturing data systems, operational
+analytics, material planning, predictive maintenance, forecasting, and applied
+machine learning for business decision support.
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/medina-andres/)
+- [Data Engineering Portfolio](https://github.com/andmedina/data-engineering-projects)
