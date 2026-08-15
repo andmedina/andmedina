@@ -12,18 +12,20 @@ I also enjoy learning unfamiliar domains and translating their processes and
 business rules into practical data products using Python, SQL, PostgreSQL, ETL
 development, data modeling, and applied machine learning.
 
-[**Explore my complete data engineering and data science portfolio →**](https://github.com/andmedina/data-projects)
+[**Explore my data projects portfolio →**](https://github.com/andmedina/data-projects)
 
 ---
 
-## Scientific and Healthcare Data
+## Featured Projects
+
+### Scientific and Healthcare Data
 
 | Project | What it demonstrates |
 |---|---|
 | [Healthcare Claims ETL](https://github.com/andmedina/data-projects/tree/main/projects/healthcare/healthcare_claims_etl) | Healthcare data modeling, Python and PostgreSQL ETL, pipeline orchestration, and analytics-ready transformations |
 | [Gene Metadata Pipeline](https://github.com/andmedina/data-projects/tree/main/projects/gene_metadata_pipeline) | REST API ingestion, scientific-data transformation, validation, and relational storage |
 
-## Applied End-to-End Data Systems
+### Applied End-to-End Data Systems
 
 | Project | What it demonstrates |
 |---|---|
