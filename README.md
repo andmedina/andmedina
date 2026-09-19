@@ -22,6 +22,7 @@ development, data modeling, and applied machine learning.
 
 | Project | What it demonstrates |
 |---|---|
+| [Aptafind](https://github.com/andmedina/aptafind) | Reproducible computational aptamer research, provenance-aware data pipelines, grouped evaluation, and PyTorch and TensorFlow sequence-generation experiments |
 | [Healthcare Clinical Intelligence](https://github.com/andmedina/healthcare-clinical-intelligence) | FHIR and HL7 ingestion, layered PostgreSQL modeling, data quality and reconciliation, Airflow orchestration, OMOP-compatible analytics, and governed machine learning |
 | [Healthcare Claims ETL](https://github.com/andmedina/healthcare-claims-etl) | Healthcare data modeling, Python and PostgreSQL ETL, data validation, and analytics-ready transformations |
 | [Gene Metadata Pipeline](https://github.com/andmedina/gene-metadata-pipeline) | REST API ingestion, scientific-data transformation, validation, and relational storage |
