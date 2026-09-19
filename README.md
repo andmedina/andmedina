@@ -22,16 +22,17 @@ development, data modeling, and applied machine learning.
 
 | Project | What it demonstrates |
 |---|---|
-| [Healthcare Claims ETL](https://github.com/andmedina/data-projects/tree/main/projects/healthcare/healthcare_claims_etl) | Healthcare data modeling, Python and PostgreSQL ETL, pipeline orchestration, and analytics-ready transformations |
-| [Gene Metadata Pipeline](https://github.com/andmedina/data-projects/tree/main/projects/gene_metadata_pipeline) | REST API ingestion, scientific-data transformation, validation, and relational storage |
+| [Healthcare Clinical Intelligence](https://github.com/andmedina/healthcare-clinical-intelligence) | FHIR and HL7 ingestion, layered PostgreSQL modeling, data quality and reconciliation, Airflow orchestration, OMOP-compatible analytics, and governed machine learning |
+| [Healthcare Claims ETL](https://github.com/andmedina/healthcare-claims-etl) | Healthcare data modeling, Python and PostgreSQL ETL, data validation, and analytics-ready transformations |
+| [Gene Metadata Pipeline](https://github.com/andmedina/gene-metadata-pipeline) | REST API ingestion, scientific-data transformation, validation, and relational storage |
 
 ### Applied End-to-End Data Systems
 
 | Project | What it demonstrates |
 |---|---|
-| [Manufacturing Intelligence Platform](https://github.com/andmedina/data-projects/tree/main/projects/manufacturing/manufacturing-intelligence-platform) | PostgreSQL data modeling, modular Python ETL, manufacturing KPIs, Tableau reporting, root-cause analysis, and predictive-maintenance modeling |
-| [BOM Material Planning](https://github.com/andmedina/data-projects/tree/main/projects/manufacturing/bom-material-planning) | ERP-style production demand, BOM explosion, time-phased inventory netting, supplier constraints, and actionable purchasing recommendations |
-| [CAD-to-ERP Pipeline](https://github.com/andmedina/data-projects/tree/main/projects/manufacturing/cad_erp_pipeline) | Engineering metadata extraction, structured BOM processing, data validation, and CAD-to-ERP integration |
+| [Manufacturing Intelligence Platform](https://github.com/andmedina/manufacturing-intelligence-platform) | PostgreSQL data modeling, modular Python ETL, manufacturing KPIs, Tableau reporting, root-cause analysis, and predictive-maintenance modeling |
+| [BOM Material Planning](https://github.com/andmedina/bom-material-planning) | ERP-style production demand, BOM explosion, time-phased inventory netting, supplier constraints, and actionable purchasing recommendations |
+| [CAD-to-ERP Pipeline](https://github.com/andmedina/cad-erp-pipeline) | Engineering metadata extraction, structured BOM processing, data validation, and CAD-to-ERP integration |
 
 ---
 
